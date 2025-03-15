@@ -13,7 +13,7 @@ A React app to manage tasks with features to add, edit, delete, and mark tasks a
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Onesmus123/Managing-State-in-React-Checkpoint.git
+   git clone https://github.com/Alois117/Checkpoint-Managing-State-in-React.git
    cd todo-list-app
 
 2. **Install Dependencies**
